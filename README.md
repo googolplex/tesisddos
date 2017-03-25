@@ -8,13 +8,14 @@ como ejemplo de E-commerce empleamos prestashop
 
 links que empleo
 
-imunes.net/
-brianlinkletter.com/imunes-on-linux/
-brianlinkletter.com/
-brianlinkletter.com/open-source-network-simulators/
+# imunes.net/
+# brianlinkletter.com/imunes-on-linux/
+# brianlinkletter.com/
+# brianlinkletter.com/open-source-network-simulators/
 
-mervine.net/performance-testing-with-httperf
-mistock.lcompras.biz/index.php?option=com_content&view=article&id=3580:tecshopy-jailbreak-iphone-4&catid=53:tecshopysoporte&Itemid=108
+# mervine.net/performance-testing-with-httperf
+# mistock.lcompras.biz/index.php?option=com_content&view=article&id=3580:tecshopy-jailbreak-iphone-4&catid=53:tecshopysoporte&Itemid=108
+# 
 
 google 
 criterio de busqueda networking emulator linux
